@@ -1,0 +1,29 @@
+/*************************************TAG SELECTOR*********************************/
+
+body {
+  background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-wood-ae-52-p.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=560a9db5ef61dfff8f5f5526726eed70");
+}
+
+
+h1 {
+  color: ;
+  font-size: 70px;
+}
+
+h2 {
+  color:  #6f0000;
+  font-size: 40px;
+}
+
+h3 {
+  color: #303960;
+  font-size: 30px;
+}
+
+
+
+/*************************************CLASS SELECTOR*********************************/
+.jkl:hover {
+  background-color: gold;
+  font-size: 30px;
+}
